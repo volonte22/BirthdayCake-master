@@ -123,6 +123,7 @@ public class CakeView extends SurfaceView {
         drawCandle(canvas, cakeLeft + cakeWidth/2 - candleWidth/2, cakeTop);
 
         drawCandle(canvas, cakeLeft, cakeTop);
+        
 
     }//onDraw
 
